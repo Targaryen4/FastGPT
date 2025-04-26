@@ -1,4 +1,4 @@
-torch>=1.13
+torch>=2.6.0
 torchaudio
 funasr>=1.1.1
 fastapi
