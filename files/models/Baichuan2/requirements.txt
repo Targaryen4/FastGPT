@@ -1,5 +1,5 @@
 protobuf
-transformers==4.30.2
+transformers==4.50.0
 cpm_kernels
 torch>=2.0
 gradio
@@ -12,3 +12,4 @@ pydantic==1.10.7
 uvicorn==0.21.1
 xformers
 bitsandbytes
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
