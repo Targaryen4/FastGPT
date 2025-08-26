@@ -45,7 +45,7 @@
     "jsondiffpatch": "^0.6.0",
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
-    "mermaid": "^10.2.3",
+    "mermaid": "^11.10.0",
     "nanoid": "^4.0.1",
     "next": "14.2.5",
     "next-i18next": "15.3.0",
