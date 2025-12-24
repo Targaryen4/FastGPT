@@ -5,3 +5,4 @@ pydantic==1.10.13
 uvicorn==0.17.6
 itsdangerous
 protobuf
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
